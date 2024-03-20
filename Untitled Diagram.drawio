@@ -1,41 +1,138 @@
-<mxfile host="app.diagrams.net" modified="2024-03-20T19:40:49.677Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="24.0.7" etag="RECm5-B-fktG-dEZARyj" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-20T20:02:22.503Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="a15kOvlmlJLLINnTiWQp" version="24.0.7" type="github">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1223" dy="871" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1257" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="Orgchart" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="80" width="710" height="290" as="geometry" />
+        <mxCell id="u1jMvKlAmCO7zC-zq6kn-1" value="" style="swimlane;startSize=20;horizontal=1;containerType=tree;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+          <mxGeometry x="70" y="170" width="700" height="590" as="geometry" />
         </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Tessa Miller" position="CFO" location="Office 1" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-12">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeMoving=1;treeFolding=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="260" y="50" width="180" height="70" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-13" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-14" edge="1">
+        <mxCell id="u1jMvKlAmCO7zC-zq6kn-2" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="u1jMvKlAmCO7zC-zq6kn-1" source="u1jMvKlAmCO7zC-zq6kn-4" target="u1jMvKlAmCO7zC-zq6kn-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Edward Morrison" position="Brand Manager" location="Office 2" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-14">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-10-3-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="40" y="180" width="180" height="80" as="geometry" />
-          </mxCell>
-        </UserObject>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-15" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-16" edge="1">
+        <mxCell id="u1jMvKlAmCO7zC-zq6kn-3" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="u1jMvKlAmCO7zC-zq6kn-1" source="u1jMvKlAmCO7zC-zq6kn-4" target="u1jMvKlAmCO7zC-zq6kn-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Evan Valet" position="HR Director" location="Office 4" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-16">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-9-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;treeFolding=1;treeMoving=1;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="260" y="180" width="180" height="80" as="geometry" />
+        <UserObject label="Артрит" treeRoot="1" id="u1jMvKlAmCO7zC-zq6kn-4">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="u1jMvKlAmCO7zC-zq6kn-1">
+            <mxGeometry x="230" y="20" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="dNxyNK7c78bLwvsdeMH5-17" value="" style="endArrow=blockThin;endFill=1;fontSize=11;edgeStyle=elbowEdgeStyle;elbow=vertical;rounded=0;" parent="dNxyNK7c78bLwvsdeMH5-11" source="dNxyNK7c78bLwvsdeMH5-12" target="dNxyNK7c78bLwvsdeMH5-18" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="u1jMvKlAmCO7zC-zq6kn-5" value="олиго" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="u1jMvKlAmCO7zC-zq6kn-1">
+          <mxGeometry x="90" y="140" width="100" height="60" as="geometry" />
         </mxCell>
-        <UserObject label="%name%&lt;br&gt;&lt;i style=&quot;color: gray&quot;&gt;%position%&lt;/i&gt;&lt;br&gt;&lt;a href=&quot;mailto:%email%&quot;&gt;Email&lt;/a&gt;" name="Alison Donovan" position="System Admin" location="Office 3" email="me@example.com" placeholders="1" link="https://www.draw.io" id="dNxyNK7c78bLwvsdeMH5-18">
-          <mxCell style="label;image=https://cdn3.iconfinder.com/data/icons/user-avatars-1/512/users-2-128.png;whiteSpace=wrap;html=1;rounded=0;glass=0;" parent="dNxyNK7c78bLwvsdeMH5-11" vertex="1">
-            <mxGeometry x="490" y="180" width="180" height="80" as="geometry" />
+        <mxCell id="u1jMvKlAmCO7zC-zq6kn-6" value="моно" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="u1jMvKlAmCO7zC-zq6kn-1">
+          <mxGeometry x="410" y="140" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u1jMvKlAmCO7zC-zq6kn-7" value="поли" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="u1jMvKlAmCO7zC-zq6kn-1">
+          <mxGeometry x="240" y="140" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u1jMvKlAmCO7zC-zq6kn-8" value="" style="edgeStyle=elbowEdgeStyle;elbow=vertical;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;curved=0;" edge="1" parent="u1jMvKlAmCO7zC-zq6kn-1" source="u1jMvKlAmCO7zC-zq6kn-4" target="u1jMvKlAmCO7zC-zq6kn-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="314" y="100" as="sourcePoint" />
+            <mxPoint x="460" y="140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u1jMvKlAmCO7zC-zq6kn-11" value="" style="edgeStyle=orthogonalEdgeStyle;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;targetPortConstraint=eastwest;sourcePortConstraint=northsouth;curved=0;rounded=0;" edge="1" target="u1jMvKlAmCO7zC-zq6kn-13" parent="u1jMvKlAmCO7zC-zq6kn-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="200" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u1jMvKlAmCO7zC-zq6kn-12" value="" style="edgeStyle=orthogonalEdgeStyle;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;targetPortConstraint=eastwest;sourcePortConstraint=northsouth;curved=0;rounded=0;" edge="1" target="u1jMvKlAmCO7zC-zq6kn-14" parent="u1jMvKlAmCO7zC-zq6kn-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="450" y="200" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u1jMvKlAmCO7zC-zq6kn-13" value="лихорадка" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;" vertex="1" parent="u1jMvKlAmCO7zC-zq6kn-1">
+          <mxGeometry x="340" y="240" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u1jMvKlAmCO7zC-zq6kn-14" value="афибрил" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;" vertex="1" parent="u1jMvKlAmCO7zC-zq6kn-1">
+          <mxGeometry x="460" y="240" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u1jMvKlAmCO7zC-zq6kn-28" value="" style="edgeStyle=orthogonalEdgeStyle;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;targetPortConstraint=eastwest;sourcePortConstraint=northsouth;curved=0;rounded=0;" edge="1" target="u1jMvKlAmCO7zC-zq6kn-30" parent="u1jMvKlAmCO7zC-zq6kn-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="200" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u1jMvKlAmCO7zC-zq6kn-29" value="" style="edgeStyle=orthogonalEdgeStyle;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;targetPortConstraint=eastwest;sourcePortConstraint=northsouth;curved=0;rounded=0;" edge="1" target="u1jMvKlAmCO7zC-zq6kn-31" parent="u1jMvKlAmCO7zC-zq6kn-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="170" y="200" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u1jMvKlAmCO7zC-zq6kn-30" value="хрон" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;" vertex="1" parent="u1jMvKlAmCO7zC-zq6kn-1">
+          <mxGeometry x="60" y="240" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u1jMvKlAmCO7zC-zq6kn-31" value="острый" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;" vertex="1" parent="u1jMvKlAmCO7zC-zq6kn-1">
+          <mxGeometry x="180" y="240" width="100" height="60" as="geometry" />
+        </mxCell>
+        <UserObject label="септический" treeRoot="1" id="u1jMvKlAmCO7zC-zq6kn-34">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="u1jMvKlAmCO7zC-zq6kn-1">
+            <mxGeometry x="330" y="350" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
+        <UserObject label="падагра" treeRoot="1" id="u1jMvKlAmCO7zC-zq6kn-35">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="u1jMvKlAmCO7zC-zq6kn-1">
+            <mxGeometry x="510" y="350" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="u1jMvKlAmCO7zC-zq6kn-36" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="u1jMvKlAmCO7zC-zq6kn-1">
+          <mxGeometry x="510" y="300" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="u1jMvKlAmCO7zC-zq6kn-39" value="" style="shape=singleArrow;direction=south;whiteSpace=wrap;html=1;" vertex="1" parent="u1jMvKlAmCO7zC-zq6kn-1">
+          <mxGeometry x="350" y="300" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="u1jMvKlAmCO7zC-zq6kn-40" value="нет сыпи" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" parent="u1jMvKlAmCO7zC-zq6kn-1">
+          <mxGeometry x="70" y="343" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u1jMvKlAmCO7zC-zq6kn-41" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=0.429;exitY=1.064;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" target="u1jMvKlAmCO7zC-zq6kn-40" parent="u1jMvKlAmCO7zC-zq6kn-1" source="u1jMvKlAmCO7zC-zq6kn-31">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="350" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="210" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u1jMvKlAmCO7zC-zq6kn-47" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;" edge="1" parent="u1jMvKlAmCO7zC-zq6kn-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="229" y="300" as="targetPoint" />
+            <mxPoint x="240" y="370" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="260" y="350" />
+              <mxPoint x="250" y="350" />
+              <mxPoint x="200" y="340" />
+              <mxPoint x="210" y="330" />
+              <mxPoint x="210" y="330" />
+              <mxPoint x="210" y="350" />
+              <mxPoint x="230" y="350" />
+              <mxPoint x="230" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u1jMvKlAmCO7zC-zq6kn-49" value="сыпь" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="u1jMvKlAmCO7zC-zq6kn-1">
+          <mxGeometry x="170" y="370" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="u1jMvKlAmCO7zC-zq6kn-50" value="" style="edgeStyle=orthogonalEdgeStyle;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;targetPortConstraint=eastwest;sourcePortConstraint=northsouth;curved=0;rounded=0;" edge="1" target="u1jMvKlAmCO7zC-zq6kn-52" parent="u1jMvKlAmCO7zC-zq6kn-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="420" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u1jMvKlAmCO7zC-zq6kn-51" value="" style="edgeStyle=orthogonalEdgeStyle;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;startArrow=none;endArrow=none;rounded=0;targetPortConstraint=eastwest;sourcePortConstraint=northsouth;curved=0;rounded=0;" edge="1" target="u1jMvKlAmCO7zC-zq6kn-53" parent="u1jMvKlAmCO7zC-zq6kn-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="420" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="u1jMvKlAmCO7zC-zq6kn-52" value="диффузная" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;" vertex="1" parent="u1jMvKlAmCO7zC-zq6kn-1">
+          <mxGeometry x="130" y="460" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u1jMvKlAmCO7zC-zq6kn-53" value="дискретная" style="whiteSpace=wrap;html=1;align=center;verticalAlign=middle;treeFolding=1;treeMoving=1;" vertex="1" parent="u1jMvKlAmCO7zC-zq6kn-1">
+          <mxGeometry x="250" y="460" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="u1jMvKlAmCO7zC-zq6kn-54" value="" style="line;strokeWidth=4;direction=south;html=1;perimeter=backbonePerimeter;points=[];outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="350" y="690" width="10" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="u1jMvKlAmCO7zC-zq6kn-55" value="и т.д&amp;nbsp;" style="html=1;whiteSpace=wrap;container=1;recursiveResize=0;collapsible=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="720" width="160" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
