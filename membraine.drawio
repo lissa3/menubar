@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2024-05-21T22:15:26.730Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="fzAzI7Yi9VVzPCVzP4-y" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-21T22:20:19.638Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="gKEwtEgVk9bjgalknlCF" version="24.4.4" type="github">
   <diagram name="Page-1" id="I0w_Y1SDjQplal9jRkme">
-    <mxGraphModel dx="1073" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFF2CC" math="0" shadow="1">
+    <mxGraphModel dx="1061" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFF2CC" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="4T7Pvb7bkrj_Sx7_u97C-87" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/css-vol-3/24/shape-zigzag-128.png;direction=north;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" parent="1" vertex="1">
           <mxGeometry as="geometry" />
         </mxCell>
-        <mxCell id="4T7Pvb7bkrj_Sx7_u97C-538" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Шероховатый эндоплазмотический&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;ретикулюм&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;textShadow=1;shadow=1;labelBackgroundColor=none;gradientColor=#b3b3b3;gradientDirection=east;" parent="1" vertex="1">
+        <mxCell id="4T7Pvb7bkrj_Sx7_u97C-538" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;Шероховатый эндоплазмотический&lt;/b&gt;&lt;/font&gt;&lt;div style=&quot;font-size: 14px;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;ретикулюм&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;textShadow=0;shadow=1;labelBackgroundColor=none;gradientDirection=east;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="432.75" y="230.5" width="350" height="139" as="geometry" />
         </mxCell>
         <mxCell id="4T7Pvb7bkrj_Sx7_u97C-541" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=#46495D;" parent="1" vertex="1">
@@ -15,9 +15,6 @@
         </mxCell>
         <mxCell id="4T7Pvb7bkrj_Sx7_u97C-542" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=#46495D;" parent="1" vertex="1">
           <mxGeometry x="459.75" y="307.06" width="20" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="4T7Pvb7bkrj_Sx7_u97C-543" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=#46495D;" parent="1" vertex="1">
-          <mxGeometry x="500" y="300" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4T7Pvb7bkrj_Sx7_u97C-544" value="" style="shape=waypoint;sketch=0;fillStyle=solid;size=6;pointerEvents=1;points=[];fillColor=none;resizable=0;rotatable=0;perimeter=centerPerimeter;snapToPoint=1;labelBackgroundColor=none;strokeColor=#788AA3;fontColor=#46495D;" parent="1" vertex="1">
           <mxGeometry x="486.75" y="257.06" width="20" height="20" as="geometry" />
@@ -118,14 +115,11 @@
         <mxCell id="4T7Pvb7bkrj_Sx7_u97C-1281" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e51400;fontColor=#ffffff;strokeColor=#B20000;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="117.25" y="287.18" width="19.75" height="19.75" as="geometry" />
         </mxCell>
-        <mxCell id="4T7Pvb7bkrj_Sx7_u97C-1282" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#fa6800;fontColor=#000000;strokeColor=#C73500;labelBackgroundColor=none;" parent="1" vertex="1">
-          <mxGeometry x="137.75" y="291.19" width="15.87" height="15.87" as="geometry" />
-        </mxCell>
         <mxCell id="4T7Pvb7bkrj_Sx7_u97C-1283" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;direction=south;labelBackgroundColor=none;fontColor=#ffffff;gradientColor=#EA6B66;" parent="1" vertex="1">
           <mxGeometry x="223.875" y="403.125" width="20" height="23.75" as="geometry" />
         </mxCell>
         <mxCell id="4T7Pvb7bkrj_Sx7_u97C-1284" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;labelBackgroundColor=none;fontColor=#ffffff;gradientColor=#EA6B66;" parent="1" vertex="1">
-          <mxGeometry x="185.87" y="547.63" width="23.75" height="20" as="geometry" />
+          <mxGeometry x="143.13" y="535" width="23.75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4T7Pvb7bkrj_Sx7_u97C-1301" value="&lt;b&gt;&quot;Чужой&quot; антиген попадает в поле здения APC&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#B3B3B3;glass=0;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="363.25" y="39" width="350" height="30" as="geometry" />
@@ -163,16 +157,16 @@
         <mxCell id="4T7Pvb7bkrj_Sx7_u97C-1354" value="" style="rounded=1;whiteSpace=wrap;html=1;direction=south;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBackgroundColor=none;gradientColor=#7ea6e0;" parent="1" vertex="1">
           <mxGeometry x="233.75" y="829.44" width="9" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="4T7Pvb7bkrj_Sx7_u97C-1357" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Фаголизосома&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#B3B3B3;glass=0;shadow=1;textShadow=1;labelBorderColor=none;spacing=4;" parent="1" vertex="1">
+        <mxCell id="4T7Pvb7bkrj_Sx7_u97C-1357" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Фаголизосома&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#B3B3B3;glass=0;shadow=1;textShadow=0;labelBorderColor=none;spacing=4;" parent="1" vertex="1">
           <mxGeometry x="14.380000000000003" y="220.5" width="178.37" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4T7Pvb7bkrj_Sx7_u97C-1363" value="&lt;b&gt;Слияние фаголизосомы с вакуолью&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#B3B3B3;glass=0;shadow=1;" parent="1" vertex="1">
+        <mxCell id="4T7Pvb7bkrj_Sx7_u97C-1363" value="Слияние фаголизосомы с вакуолью" style="rounded=1;whiteSpace=wrap;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#B3B3B3;glass=0;shadow=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="367.25" y="396.88" width="243.87" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4T7Pvb7bkrj_Sx7_u97C-1364" value="&lt;b&gt;Антиген встроен в молекулу class МНС ||&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#B3B3B3;glass=0;shadow=1;" parent="1" vertex="1">
+        <mxCell id="4T7Pvb7bkrj_Sx7_u97C-1364" value="&lt;b&gt;Антиген встроен в молекулу class МНС ||&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#B3B3B3;glass=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="371.13" y="530" width="288.87" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="4T7Pvb7bkrj_Sx7_u97C-1365" value="&lt;b style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Презентация антигена,&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;встроенного&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;b style=&quot;background-color: initial; font-size: 17px;&quot;&gt;в молекулу MHC ||&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;font-size: 17px; background-color: initial;&quot;&gt;лимфоциту CD 4+&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#B3B3B3;glass=0;shadow=1;" parent="1" vertex="1">
+        <mxCell id="4T7Pvb7bkrj_Sx7_u97C-1365" value="&lt;b style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Презентация антигена,&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;встроенного&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;b style=&quot;background-color: initial; font-size: 17px;&quot;&gt;в молекулу MHC ||&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;font-size: 17px; background-color: initial;&quot;&gt;лимфоциту CD 4+&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#B3B3B3;glass=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="377.88" y="810" width="342.12" height="110" as="geometry" />
         </mxCell>
         <mxCell id="P_Lqx297jGzq0s_Li1Y6-4" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
@@ -181,8 +175,11 @@
         <mxCell id="P_Lqx297jGzq0s_Li1Y6-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Мембрана АРС клетки&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="277.25" y="670.5" width="497.25" height="29.5" as="geometry" />
         </mxCell>
-        <mxCell id="P_Lqx297jGzq0s_Li1Y6-7" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Мембрана APC (Антиген-презентирующей) клетки&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="P_Lqx297jGzq0s_Li1Y6-7" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Мембрана APC (Антигенпрезентирующей) клетки&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="14.379999999999999" y="140" width="797.75" height="29.5" as="geometry" />
+        </mxCell>
+        <mxCell id="P_Lqx297jGzq0s_Li1Y6-8" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/social-media-2198/64/y_social_media_network-128.png;direction=south;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
+          <mxGeometry x="85.63" y="490" width="114.37" height="114.37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
