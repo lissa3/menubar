@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-21T21:59:32.206Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="bxNsO7E1SLHcT19FmGGf" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-21T22:05:57.822Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="myF2NYDA2I_pG1k6eIz0" version="24.4.4" type="github">
   <diagram name="Page-1" id="I0w_Y1SDjQplal9jRkme">
     <mxGraphModel dx="1060" dy="614" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFF2CC" math="0" shadow="1">
       <root>
@@ -1975,7 +1975,7 @@
         <mxCell id="4T7Pvb7bkrj_Sx7_u97C-1236" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.pie;startAngle=0.2;endAngle=0.9;direction=north;fillColor=#6484B3;strokeColor=#d6b656;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="256.495" y="770.995" width="26.26" height="22.75" as="geometry" />
         </mxCell>
-        <mxCell id="4T7Pvb7bkrj_Sx7_u97C-1237" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FF0000;fontColor=#000000;strokeColor=#C73500;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="4T7Pvb7bkrj_Sx7_u97C-1237" value="&lt;b&gt;&lt;font color=&quot;#f2f2f2&quot;&gt;AG&lt;/font&gt;&lt;/b&gt;" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#FF0000;fontColor=#000000;strokeColor=#C73500;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="234.5" y="770" width="32.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4T7Pvb7bkrj_Sx7_u97C-1239" value="" style="rounded=1;whiteSpace=wrap;html=1;direction=south;rotation=-30;arcSize=50;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBackgroundColor=none;gradientColor=#7ea6e0;gradientDirection=north;" vertex="1" parent="1">
@@ -1991,18 +1991,18 @@
           <mxGeometry x="149" y="360" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="4T7Pvb7bkrj_Sx7_u97C-1252" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/social-media-2198/64/y_social_media_network-128.png;direction=west;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#46495D;" vertex="1" parent="1">
-          <mxGeometry x="161.75" y="400" width="50" height="50" as="geometry" />
+          <mxGeometry x="140" y="372.76" width="96" height="96" as="geometry" />
         </mxCell>
-        <mxCell id="4T7Pvb7bkrj_Sx7_u97C-1264" value="&lt;br&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Молекула MHC ||&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;в вакуоле&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;direction=south;fillColor=#e1d5e7;strokeColor=#9673a6;labelBackgroundColor=none;gradientColor=#CDA2BE;" vertex="1" parent="1">
+        <mxCell id="4T7Pvb7bkrj_Sx7_u97C-1264" value="&lt;br&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Молекула MHC ||&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;в вакуоле&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;direction=south;fillColor=#e1d5e7;strokeColor=#9673a6;labelBackgroundColor=none;gradientColor=#CDA2BE;textShadow=1;" vertex="1" parent="1">
           <mxGeometry x="248" y="245" width="142" height="110" as="geometry" />
         </mxCell>
         <mxCell id="4T7Pvb7bkrj_Sx7_u97C-1266" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#d0cee2;strokeColor=#56517e;labelBackgroundColor=none;" vertex="1" parent="1">
-          <mxGeometry x="148.75" y="495" width="120" height="110" as="geometry" />
+          <mxGeometry x="130" y="495" width="138.75" height="110" as="geometry" />
         </mxCell>
         <mxCell id="4T7Pvb7bkrj_Sx7_u97C-1267" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=none;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/social-media-2198/64/y_social_media_network-128.png;direction=south;fillColor=#B2C9AB;strokeColor=#788AA3;fontColor=#8F1E11;" vertex="1" parent="1">
-          <mxGeometry x="173.25" y="535" width="50" height="50" as="geometry" />
+          <mxGeometry x="140" y="507.5" width="90.25" height="90.25" as="geometry" />
         </mxCell>
-        <mxCell id="4T7Pvb7bkrj_Sx7_u97C-1270" value="&lt;b&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;CD 4 +&lt;/font&gt;&lt;/b&gt;" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;gradientDirection=east;labelBackgroundColor=none;gradientColor=#b3b3b3;" vertex="1" parent="1">
+        <mxCell id="4T7Pvb7bkrj_Sx7_u97C-1270" value="&lt;b&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;CD 4 +&lt;/font&gt;&lt;/b&gt;" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;gradientDirection=east;labelBackgroundColor=none;gradientColor=#b3b3b3;textShadow=1;" vertex="1" parent="1">
           <mxGeometry x="182.75" y="899.44" width="130" height="130" as="geometry" />
         </mxCell>
         <mxCell id="4T7Pvb7bkrj_Sx7_u97C-1271" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;fillColor=#e6d0de;strokeColor=#996185;labelBackgroundColor=none;gradientColor=#d5739d;" vertex="1" parent="1">
@@ -2072,12 +2072,12 @@
           <mxGeometry x="566.75" y="685" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="4T7Pvb7bkrj_Sx7_u97C-1347" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn2.iconfinder.com/data/icons/social-media-2198/64/y_social_media_network-128.png;strokeColor=#788AA3;fontColor=#46495D;fillColor=#B2C9AB;" vertex="1" parent="1">
-          <mxGeometry x="272.25" y="250.5" width="64" height="64" as="geometry" />
+          <mxGeometry x="275.5" y="232.25" width="87.75" height="87.75" as="geometry" />
         </mxCell>
         <mxCell id="4T7Pvb7bkrj_Sx7_u97C-1354" value="" style="rounded=1;whiteSpace=wrap;html=1;direction=south;fillColor=#dae8fc;strokeColor=#6c8ebf;labelBackgroundColor=none;gradientColor=#7ea6e0;" vertex="1" parent="1">
           <mxGeometry x="233.75" y="829.44" width="9" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="4T7Pvb7bkrj_Sx7_u97C-1357" value="&lt;b&gt;Фаголизосома&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#B3B3B3;glass=0;shadow=1;" vertex="1" parent="1">
+        <mxCell id="4T7Pvb7bkrj_Sx7_u97C-1357" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Фаголизосома&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#B3B3B3;glass=0;shadow=1;textShadow=1;labelBorderColor=none;spacing=4;" vertex="1" parent="1">
           <mxGeometry x="14.380000000000003" y="220.5" width="178.37" height="30" as="geometry" />
         </mxCell>
         <mxCell id="4T7Pvb7bkrj_Sx7_u97C-1363" value="&lt;b&gt;Слияние фаголизосомы с вакуолью&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#B3B3B3;glass=0;shadow=1;" vertex="1" parent="1">
