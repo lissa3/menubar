@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-22T12:35:47.487Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="lkScEY-9s1c8Z60bqnCM" version="24.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-22T12:36:13.297Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="yrlv3_tDvj0feeQBFoXC" version="24.4.5" type="github">
   <diagram name="Page-1" id="I0w_Y1SDjQplal9jRkme">
     <mxGraphModel dx="1061" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFF2CC" math="0" shadow="1">
       <root>
@@ -371,9 +371,6 @@
         </mxCell>
         <mxCell id="Qrni01w6ufsVR2uyYPQi-16" value="&lt;b&gt;Внутренний антиген&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;(вирус, опухоль, дефектный свой)&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#B3B3B3;glass=0;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="443.87" y="185" width="270" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="Qrni01w6ufsVR2uyYPQi-18" value="" style="line;strokeWidth=1;rotatable=0;dashed=0;labelPosition=right;align=left;verticalAlign=middle;spacingTop=0;spacingLeft=6;points=[];portConstraint=eastwest;flipV=0;flipH=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="510" width="60" height="10" as="geometry" />
         </mxCell>
         <mxCell id="Qrni01w6ufsVR2uyYPQi-19" value="" style="html=1;points=[[0,0,0,0,5],[0,1,0,0,-5],[1,0,0,0,5],[1,1,0,0,-5]];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="405" width="10" height="220" as="geometry" />
