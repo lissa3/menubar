@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-22T08:51:15.413Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="Q5sNfgurirSp8IKpf2My" version="24.4.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-22T08:59:54.124Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="ZrX6O0zlBFLEJC3SlRdi" version="24.4.4" type="github">
   <diagram name="Page-1" id="I0w_Y1SDjQplal9jRkme">
     <mxGraphModel dx="1060" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FFF2CC" math="0" shadow="1">
       <root>
@@ -88,7 +88,7 @@
         <mxCell id="4T7Pvb7bkrj_Sx7_u97C-1264" value="&lt;br&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Молекула MHC ||&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;b&gt;в вакуоле&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;direction=south;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=none;textShadow=1;gradientColor=#97d077;gradientDirection=radial;" parent="1" vertex="1">
           <mxGeometry x="248" y="245" width="142" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="4T7Pvb7bkrj_Sx7_u97C-1266" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=none;gradientColor=#97d077;gradientDirection=radial;" parent="1" vertex="1">
+        <mxCell id="4T7Pvb7bkrj_Sx7_u97C-1266" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;labelBackgroundColor=none;gradientColor=none;gradientDirection=radial;" parent="1" vertex="1">
           <mxGeometry x="70" y="495" width="198.75" height="110" as="geometry" />
         </mxCell>
         <mxCell id="4T7Pvb7bkrj_Sx7_u97C-1270" value="&lt;b&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;CD 4 +&lt;/font&gt;&lt;/b&gt;" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;gradientDirection=radial;labelBackgroundColor=none;gradientColor=#b3b3b3;textShadow=1;" parent="1" vertex="1">
