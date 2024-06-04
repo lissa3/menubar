@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-04T13:16:14.313Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="usVbkEEk8YdH1KkEQjby" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-04T13:24:44.585Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="m79RHmkXh0Wk17fD_L-p" version="24.4.13" type="github">
   <diagram name="Page-1" id="I0w_Y1SDjQplal9jRkme">
     <mxGraphModel dx="1073" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="1">
       <root>
@@ -49,26 +49,26 @@
             <mxPoint x="290" y="903.9300000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3hxGsa1tiIKANQl3V8EQ-13" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;мембрана&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
-          <mxGeometry x="30" y="40" width="690" height="20.5" as="geometry" />
+        <mxCell id="3hxGsa1tiIKANQl3V8EQ-13" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;мембрана&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+          <mxGeometry x="40" y="70" width="690" height="20.5" as="geometry" />
         </mxCell>
         <mxCell id="3hxGsa1tiIKANQl3V8EQ-25" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=2.0859298706054688;fillColor=#C7C7C7;fontColor=#333333;strokeColor=#666666;gradientColor=default;gradientDirection=east;" parent="1" vertex="1">
           <mxGeometry x="161.13" y="260" width="30" height="102.69" as="geometry" />
         </mxCell>
-        <mxCell id="3hxGsa1tiIKANQl3V8EQ-65" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;мембрана&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="3hxGsa1tiIKANQl3V8EQ-65" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;мембрана&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="60" y="590" width="680" height="20" as="geometry" />
         </mxCell>
         <mxCell id="3hxGsa1tiIKANQl3V8EQ-94" value="&lt;b style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;Презентация антигена&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;b style=&quot;background-color: initial; font-size: 17px;&quot;&gt;в&amp;nbsp; молекуле МСН I&lt;/b&gt;&lt;div&gt;&lt;div&gt;&lt;b style=&quot;background-color: initial; font-size: 17px;&quot;&gt;лимфоциту CD 8+&amp;nbsp;&amp;nbsp;&lt;/b&gt;&lt;b style=&quot;font-size: 17px;&quot;&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;b style=&quot;background-color: initial; font-size: 17px;&quot;&gt;&amp;nbsp;&lt;/b&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#B3B3B3;glass=0;shadow=0;" parent="1" vertex="1">
           <mxGeometry x="300" y="760" width="410" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qrni01w6ufsVR2uyYPQi-16" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;Внутренний путь - презентация внутреннего антигена&lt;b&gt;&amp;nbsp;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;div style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 13px;&quot;&gt;(вирус, опухоль, собственный дефектный пептид)&lt;/font&gt;&lt;/div&gt;" style="rounded=1;html=1;labelBackgroundColor=none;fillColor=#ffe6cc;strokeColor=#d79b00;glass=0;shadow=0;" parent="1" vertex="1">
-          <mxGeometry x="30" y="80" width="690" height="50" as="geometry" />
+          <mxGeometry x="40" y="110" width="690" height="50" as="geometry" />
         </mxCell>
         <mxCell id="2olWTDklC1I-b1u-n25f-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.sun;strokeColor=#788AA3;fontColor=#46495D;fillColor=#FF0000;gradientColor=default;gradientDirection=radial;" parent="1" vertex="1">
           <mxGeometry x="161.13" y="170" width="27.75" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2olWTDklC1I-b1u-n25f-4" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Молекулы&amp;nbsp; MHC I на поверности&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;любых ядерныех клеткок (и тромбоцитов)&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="268.87" y="641.5" width="531.13" height="39.11" as="geometry" />
+        <mxCell id="2olWTDklC1I-b1u-n25f-4" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Молекулы&amp;nbsp; MHC I на поверности&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;ядерных клеткок (и тромбоцитов)&lt;/span&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="112.80999999999997" y="10" width="531.13" height="39.11" as="geometry" />
         </mxCell>
         <mxCell id="2olWTDklC1I-b1u-n25f-16" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;" parent="1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
