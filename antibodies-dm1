@@ -1,9 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2024-06-20T10:41:26.198Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" version="24.4.13" etag="G6QdDikjssv0-_UGM5T-" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-20T10:53:03.897Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="guFaQkOdCZFhrvAOQ4fl" version="24.4.13" type="github">
   <diagram name="Page-1" id="Ok_5Tau2QEhCvGFWY60q">
-    <mxGraphModel>
+    <mxGraphModel dx="1073" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="wGhoNkGUwJV-CsBNr89L-1" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="41" width="740" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="wGhoNkGUwJV-CsBNr89L-6" value="GLUT2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="140" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wGhoNkGUwJV-CsBNr89L-8" value="" style="ellipse;whiteSpace=wrap;html=1;rotation=351;" vertex="1" parent="1">
+          <mxGeometry x="30" y="200" width="20" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="wGhoNkGUwJV-CsBNr89L-9" value="" style="ellipse;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="125" y="95" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wGhoNkGUwJV-CsBNr89L-10" value="" style="ellipse;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="135" y="95" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wGhoNkGUwJV-CsBNr89L-11" value="" style="ellipse;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="460" y="40" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wGhoNkGUwJV-CsBNr89L-12" value="" style="ellipse;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="470" y="40" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wGhoNkGUwJV-CsBNr89L-14" value="ATP чувствительный&lt;div&gt;К+ канал&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="75" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wGhoNkGUwJV-CsBNr89L-15" value="Са 2+ канал" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="10" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wGhoNkGUwJV-CsBNr89L-16" value="" style="ellipse;whiteSpace=wrap;html=1;rotation=351;" vertex="1" parent="1">
+          <mxGeometry x="30" y="186" width="20" height="10" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
