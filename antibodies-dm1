@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2024-06-20T12:54:36.379Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="M-W9H4qi_F-fH-Zt1Ivf" version="24.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-20T13:58:46.787Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Q-Glsu89Tg13s1PyZ6Mh" version="24.5.5" type="github">
   <diagram name="Page-1" id="Ok_5Tau2QEhCvGFWY60q">
     <mxGraphModel dx="1073" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="wGhoNkGUwJV-CsBNr89L-1" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="wGhoNkGUwJV-CsBNr89L-1" value="&lt;span style=&quot;font-size: 27px; text-wrap: nowrap;&quot;&gt;β-клетка&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="40" width="690" height="330" as="geometry" />
         </mxCell>
         <mxCell id="wGhoNkGUwJV-CsBNr89L-6" value="GLUT2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
@@ -64,9 +64,6 @@
         <mxCell id="9u71htswWOepr2uUItna-43" value="" style="shape=cross;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="40" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="9u71htswWOepr2uUItna-44" value="Деполяризация" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};" vertex="1" collapsed="1" parent="1">
-          <mxGeometry x="260" y="40" width="100" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="9u71htswWOepr2uUItna-48" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;" vertex="1" parent="1">
           <mxGeometry x="472" y="15" width="10" height="70" as="geometry" />
         </mxCell>
@@ -93,23 +90,23 @@
         <mxCell id="9u71htswWOepr2uUItna-54" value="GAD" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="272" y="90" width="50" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="9u71htswWOepr2uUItna-56" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;gradientColor=default;gradientDirection=radial;" vertex="1" parent="1">
+        <mxCell id="9u71htswWOepr2uUItna-56" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;gradientColor=default;gradientDirection=radial;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="125" y="227.5" width="150" height="87" as="geometry" />
         </mxCell>
-        <mxCell id="9u71htswWOepr2uUItna-58" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#9AC7BF;strokeColor=#82b366;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="1">
+        <mxCell id="9u71htswWOepr2uUItna-58" value="ЭПР" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#D5E8D4;strokeColor=#82b366;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="264" y="242" width="138" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="9u71htswWOepr2uUItna-59" value="" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="1">
+        <mxCell id="9u71htswWOepr2uUItna-59" value="Гольджи" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;sketch=1;curveFitting=1;jiggle=2;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="381.5" y="244" width="130" height="26" as="geometry" />
         </mxCell>
         <mxCell id="9u71htswWOepr2uUItna-60" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="512" y="133" width="168" height="168" as="geometry" />
         </mxCell>
         <mxCell id="9u71htswWOepr2uUItna-61" value="Zn" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="565.5" y="209" width="21" height="21" as="geometry" />
+          <mxGeometry x="565.5" y="209" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9u71htswWOepr2uUItna-62" value="Zn" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="590" y="210" width="21" height="21" as="geometry" />
+          <mxGeometry x="590" y="210" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9u71htswWOepr2uUItna-63" value="плотное ядро&lt;div&gt;гаранулы&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="558.5" y="162" width="60" height="40" as="geometry" />
@@ -139,22 +136,28 @@
           <mxGeometry x="631" y="172" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9u71htswWOepr2uUItna-73" value="Zn" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="486.5" y="165" width="25" height="25" as="geometry" />
+          <mxGeometry x="486.5" y="165" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="9u71htswWOepr2uUItna-74" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9u71htswWOepr2uUItna-74" value="ZnT8" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="192" width="40" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="9u71htswWOepr2uUItna-75" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="9u71htswWOepr2uUItna-75" value="ZnT8" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="212" width="40" height="18" as="geometry" />
         </mxCell>
-        <mxCell id="9u71htswWOepr2uUItna-76" value="Zn" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="467" y="196" width="25" height="25" as="geometry" />
+        <mxCell id="9u71htswWOepr2uUItna-76" value="Zn" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="467" y="196" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="9u71htswWOepr2uUItna-77" value="" style="html=1;verticalAlign=bottom;startArrow=circle;startFill=1;endArrow=open;startSize=6;endSize=8;curved=0;rounded=0;strokeColor=#EA6B66;" edge="1" parent="1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="485.5" y="212" as="sourcePoint" />
             <mxPoint x="565.5" y="212" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="9u71htswWOepr2uUItna-84" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;fillColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="316" y="90" width="26" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="9u71htswWOepr2uUItna-85" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;fillColor=#FF0000;" vertex="1" parent="1">
+          <mxGeometry x="514" y="162" width="26" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
