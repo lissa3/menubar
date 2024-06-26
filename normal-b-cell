@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-26T21:24:36.515Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="4PXIfTA3qbGIaVxknR6-" version="24.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-26T21:27:59.136Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="JXZnr_lBiSR0u5XKJT_G" version="24.6.3" type="github">
   <diagram name="Page-1" id="Ok_5Tau2QEhCvGFWY60q">
     <mxGraphModel dx="1073" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -176,10 +176,10 @@
         <mxCell id="lsA-xlnOmhXqJF-fpH1D-15" value="&lt;font size=&quot;1&quot;&gt;Деполяризация&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="1" vertex="1">
           <mxGeometry x="307" y="40" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="lsA-xlnOmhXqJF-fpH1D-18" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#009900;" parent="1" vertex="1">
-          <mxGeometry x="690" y="198" width="60" height="42" as="geometry" />
+        <mxCell id="lsA-xlnOmhXqJF-fpH1D-18" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#990000;" parent="1" vertex="1">
+          <mxGeometry x="641" y="229.75" width="39" height="28.5" as="geometry" />
         </mxCell>
-        <mxCell id="kB3frYT-1JwmEt6Dhlm6-2" value="" style="shape=mxgraph.signs.food.food_truck;html=1;pointerEvents=1;fillColor=#FFCE9F;strokeColor=#663300;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="kB3frYT-1JwmEt6Dhlm6-2" value="" style="shape=mxgraph.signs.food.food_truck;html=1;pointerEvents=1;fillColor=#FFCE9F;strokeColor=#CC6600;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="690" y="231" width="49" height="26" as="geometry" />
         </mxCell>
         <mxCell id="kB3frYT-1JwmEt6Dhlm6-4" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;fillColor=#FFCE9F;strokeColor=#CC6600;" vertex="1" parent="1">
