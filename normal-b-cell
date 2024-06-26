@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-26T21:14:30.737Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="KAEtU_CETWxvUDmU8491" version="24.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-26T21:24:36.515Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="4PXIfTA3qbGIaVxknR6-" version="24.6.3" type="github">
   <diagram name="Page-1" id="Ok_5Tau2QEhCvGFWY60q">
     <mxGraphModel dx="1073" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -179,8 +179,26 @@
         <mxCell id="lsA-xlnOmhXqJF-fpH1D-18" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;fillColor=#009900;" parent="1" vertex="1">
           <mxGeometry x="690" y="198" width="60" height="42" as="geometry" />
         </mxCell>
-        <mxCell id="kB3frYT-1JwmEt6Dhlm6-1" value="" style="shape=mxgraph.signs.transportation.forklift;html=1;pointerEvents=1;fillColor=#000000;strokeColor=none;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;direction=east;" vertex="1" parent="1">
-          <mxGeometry x="690" y="163" width="60" height="57" as="geometry" />
+        <mxCell id="kB3frYT-1JwmEt6Dhlm6-2" value="" style="shape=mxgraph.signs.food.food_truck;html=1;pointerEvents=1;fillColor=#FFCE9F;strokeColor=#663300;verticalLabelPosition=bottom;verticalAlign=top;align=center;sketch=0;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="690" y="231" width="49" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="kB3frYT-1JwmEt6Dhlm6-4" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;fillColor=#FFCE9F;strokeColor=#CC6600;" vertex="1" parent="1">
+          <mxGeometry x="558.5" y="227.5" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="kB3frYT-1JwmEt6Dhlm6-5" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;strokeColor=#CC6600;fillColor=#FFCE9F;" vertex="1" parent="1">
+          <mxGeometry x="600" y="230" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="kB3frYT-1JwmEt6Dhlm6-8" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;strokeColor=#CC6600;fillColor=#FFCE9F;" vertex="1" parent="1">
+          <mxGeometry x="610" y="240" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="kB3frYT-1JwmEt6Dhlm6-9" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;strokeColor=#CC6600;fillColor=#FFCE9F;" vertex="1" parent="1">
+          <mxGeometry x="620" y="250" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="kB3frYT-1JwmEt6Dhlm6-10" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;fillColor=#FFCE9F;strokeColor=#CC6600;" vertex="1" parent="1">
+          <mxGeometry x="568.5" y="237.5" width="10" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="kB3frYT-1JwmEt6Dhlm6-11" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;fillColor=#FFCE9F;strokeColor=#CC6600;" vertex="1" parent="1">
+          <mxGeometry x="578.5" y="247.5" width="10" height="10" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
