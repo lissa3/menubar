@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-21T22:39:44.885Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="VrkN2rDL-ZvXbPqokHXR" version="24.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-26T16:58:44.092Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="T3rKvFCxQrxLec7O7eWQ" version="24.6.1" type="github">
   <diagram name="Page-1" id="Ok_5Tau2QEhCvGFWY60q">
-    <mxGraphModel dx="1061" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1073" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -76,36 +76,45 @@
         <mxCell id="94_bjWwokpaZVHW9WjAv-3" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#7EA6E0;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="580" y="128" width="10" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="94_bjWwokpaZVHW9WjAv-4" value="IA-2&lt;div&gt;(PTP)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="94_bjWwokpaZVHW9WjAv-4" value="IA-2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="508" y="110" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lsA-xlnOmhXqJF-fpH1D-5" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;fillColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="80" y="90" width="310" height="112" as="geometry" />
         </mxCell>
-        <mxCell id="1S42Lx_ONgAT6E66zQUV-4" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;fillColor=#FF0000;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="1S42Lx_ONgAT6E66zQUV-4" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;fillColor=#FF0000;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="472" y="228" width="28" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="1S42Lx_ONgAT6E66zQUV-5" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;fillColor=#FF0000;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="1S42Lx_ONgAT6E66zQUV-5" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;fillColor=#FF0000;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="553" y="106" width="28" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="1S42Lx_ONgAT6E66zQUV-7" value="&lt;b style=&quot;font-size: 20px;&quot;&gt;&lt;font color=&quot;#990000&quot; style=&quot;font-size: 20px;&quot;&gt;антитела&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;&lt;font color=&quot;#990000&quot; style=&quot;font-size: 20px;&quot;&gt;декарбоксилазе GAD - 65&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="1S42Lx_ONgAT6E66zQUV-7" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;&lt;font color=&quot;#990000&quot; style=&quot;font-size: 15px;&quot;&gt;антитела&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#990000&quot; style=&quot;font-size: 15px;&quot;&gt;декарбоксилазе GAD - 65&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="33" width="280" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="1S42Lx_ONgAT6E66zQUV-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="9u71htswWOepr2uUItna-52">
+        <mxCell id="1S42Lx_ONgAT6E66zQUV-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="9u71htswWOepr2uUItna-52" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="180" y="160" as="sourcePoint" />
             <mxPoint x="240" y="110" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1S42Lx_ONgAT6E66zQUV-9" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;fillColor=#FF0000;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="1S42Lx_ONgAT6E66zQUV-9" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;fillColor=#FF0000;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="240" y="84" width="28" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="1S42Lx_ONgAT6E66zQUV-10" value="&lt;b style=&quot;font-size: 20px;&quot;&gt;&lt;font color=&quot;#990000&quot; style=&quot;font-size: 20px;&quot;&gt;антитела к тирозинфосфатазе&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="1S42Lx_ONgAT6E66zQUV-10" value="&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#990000&quot; style=&quot;font-size: 15px;&quot;&gt;антитела к тирозинфосфатазе (IA-2)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="380" y="58" width="280" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="1S42Lx_ONgAT6E66zQUV-11" value="&lt;b style=&quot;font-size: 20px;&quot;&gt;&lt;font color=&quot;#990000&quot; style=&quot;font-size: 20px;&quot;&gt;антитела&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;&lt;font color=&quot;#990000&quot; style=&quot;font-size: 20px;&quot;&gt;к транспортёру Zn2+&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;&lt;font color=&quot;#990000&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="1S42Lx_ONgAT6E66zQUV-11" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;&lt;font color=&quot;#990000&quot; style=&quot;font-size: 15px;&quot;&gt;антитела&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#990000&quot; style=&quot;font-size: 15px;&quot;&gt;к транспортёру Zn2+&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#990000&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="310" y="270" width="280" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="Jt0NPLcjKqmwcQxRSdz3-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;fillColor=#FF0000;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="660" y="198" width="28" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="Jt0NPLcjKqmwcQxRSdz3-2" value="&lt;b&gt;ICA&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="660" y="220" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Jt0NPLcjKqmwcQxRSdz3-3" value="&lt;font color=&quot;#990000&quot;&gt;&lt;br&gt;&lt;span style=&quot;font-family: Cambria, &amp;quot;Cambria Math&amp;quot;, stixgeneral, &amp;quot;Times New Roman&amp;quot;, Times, serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;антитела к Islet-cell&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#990000&quot;&gt;&lt;span style=&quot;font-family: Cambria, &amp;quot;Cambria Math&amp;quot;, stixgeneral, &amp;quot;Times New Roman&amp;quot;, Times, serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;аутоантигену&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-family: Cambria, &amp;quot;Cambria Math&amp;quot;, stixgeneral, &amp;quot;Times New Roman&amp;quot;, Times, serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;69&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#990000&quot;&gt;&lt;span style=&quot;font-family: Cambria, &amp;quot;Cambria Math&amp;quot;, stixgeneral, &amp;quot;Times New Roman&amp;quot;, Times, serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;(ICA)&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="640" y="142" width="190" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
