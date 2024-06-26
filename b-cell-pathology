@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-26T21:53:09.329Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="ByuwImp2vy_10FGSDFMc" version="24.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-26T21:53:58.680Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="RHWvAcGq0QAfls7Ze72t" version="24.6.3" type="github">
   <diagram name="Page-1" id="Ok_5Tau2QEhCvGFWY60q">
     <mxGraphModel dx="1073" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -84,7 +84,7 @@
           <mxGeometry x="240" y="84" width="28" height="22" as="geometry" />
         </mxCell>
         <mxCell id="1S42Lx_ONgAT6E66zQUV-10" value="&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#990000&quot; style=&quot;font-size: 15px;&quot;&gt;антитела к тирозинфосфатазе (IA-2)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="380" y="58" width="280" height="48" as="geometry" />
+          <mxGeometry x="334" y="58" width="280" height="48" as="geometry" />
         </mxCell>
         <mxCell id="1S42Lx_ONgAT6E66zQUV-11" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;&lt;font color=&quot;#990000&quot; style=&quot;font-size: 15px;&quot;&gt;антитела&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#990000&quot; style=&quot;font-size: 15px;&quot;&gt;к транспортёру Zn2+&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#990000&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="310" y="270" width="280" height="48" as="geometry" />
