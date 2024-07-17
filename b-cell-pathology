@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-26T21:53:58.680Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="RHWvAcGq0QAfls7Ze72t" version="24.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-17T08:57:06.913Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="5LyF_V_0zKFmXKNag1qD" version="24.7.0" type="github">
   <diagram name="Page-1" id="Ok_5Tau2QEhCvGFWY60q">
     <mxGraphModel dx="1073" dy="586" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,16 +7,16 @@
         <mxCell id="wGhoNkGUwJV-CsBNr89L-1" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="40" y="33" width="690" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="9u71htswWOepr2uUItna-52" value="ГАМК" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#FFCC99;gradientColor=none;" parent="1" vertex="1">
+        <mxCell id="9u71htswWOepr2uUItna-52" value="GABA" style="ellipse;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#FFCC99;gradientColor=none;" parent="1" vertex="1">
           <mxGeometry x="290" y="142" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="9u71htswWOepr2uUItna-51" value="Глютамат" style="ellipse;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="9u71htswWOepr2uUItna-51" value="glutamate" style="ellipse;whiteSpace=wrap;html=1;fillColor=#cdeb8b;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="110" y="142" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="9u71htswWOepr2uUItna-54" value="GAD-65" style="ellipse;whiteSpace=wrap;html=1;fillColor=#FFCC99;strokeColor=#b85450;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="200" y="106" width="52" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="9u71htswWOepr2uUItna-56" value="Ядро" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;gradientColor=default;gradientDirection=radial;shadow=1;" parent="1" vertex="1">
+        <mxCell id="9u71htswWOepr2uUItna-56" value="Nucleus" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;gradientColor=default;gradientDirection=radial;shadow=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="214.5" width="210" height="99" as="geometry" />
         </mxCell>
         <mxCell id="9u71htswWOepr2uUItna-60" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
@@ -28,7 +28,7 @@
         <mxCell id="9u71htswWOepr2uUItna-62" value="Zn" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#F2634D;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="590" y="210" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="9u71htswWOepr2uUItna-63" value="плотное ядро&lt;div&gt;ганулы&amp;nbsp;&lt;/div&gt;&lt;div&gt;вакуоли&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="9u71htswWOepr2uUItna-63" value="&lt;div&gt;dense granule&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="520" y="162" width="98.5" height="40" as="geometry" />
         </mxCell>
         <mxCell id="9u71htswWOepr2uUItna-71" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.partConcEllipse;startAngle=0.25;endAngle=0.1;arcWidth=0.5;fillColor=#f8cecc;strokeColor=#b85450;direction=west;" parent="1" vertex="1">
@@ -62,7 +62,7 @@
           <mxGeometry x="508" y="110" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="lsA-xlnOmhXqJF-fpH1D-5" value="" style="ellipse;shape=doubleEllipse;whiteSpace=wrap;html=1;fillColor=none;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="80" y="90" width="310" height="112" as="geometry" />
+          <mxGeometry x="90" y="82" width="310" height="112" as="geometry" />
         </mxCell>
         <mxCell id="1S42Lx_ONgAT6E66zQUV-4" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;fillColor=#FF0000;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="472" y="228" width="28" height="22" as="geometry" />
@@ -70,7 +70,7 @@
         <mxCell id="1S42Lx_ONgAT6E66zQUV-5" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;fillColor=#FF0000;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="553" y="106" width="28" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="1S42Lx_ONgAT6E66zQUV-7" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;&lt;font color=&quot;#990000&quot; style=&quot;font-size: 15px;&quot;&gt;антитела&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#990000&quot; style=&quot;font-size: 15px;&quot;&gt;декарбоксилазе GAD - 65&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="1S42Lx_ONgAT6E66zQUV-7" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;&lt;font color=&quot;#990000&quot; style=&quot;font-size: 15px;&quot;&gt;antibody to glutamic acid&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;font-size: 15px; background-color: initial;&quot;&gt;&lt;font color=&quot;#990000&quot;&gt;&amp;nbsp;GAD - 65&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="40" y="33" width="280" height="48" as="geometry" />
         </mxCell>
         <mxCell id="1S42Lx_ONgAT6E66zQUV-8" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="9u71htswWOepr2uUItna-52" edge="1">
@@ -83,10 +83,10 @@
         <mxCell id="1S42Lx_ONgAT6E66zQUV-9" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;fillColor=#FF0000;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="240" y="84" width="28" height="22" as="geometry" />
         </mxCell>
-        <mxCell id="1S42Lx_ONgAT6E66zQUV-10" value="&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#990000&quot; style=&quot;font-size: 15px;&quot;&gt;антитела к тирозинфосфатазе (IA-2)&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="1S42Lx_ONgAT6E66zQUV-10" value="&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#990000&quot; style=&quot;font-size: 15px;&quot;&gt;antibody to tyrosine phosphatase&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#990000&quot; style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp;(IA-2)&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="334" y="58" width="280" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="1S42Lx_ONgAT6E66zQUV-11" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;&lt;font color=&quot;#990000&quot; style=&quot;font-size: 15px;&quot;&gt;антитела&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#990000&quot; style=&quot;font-size: 15px;&quot;&gt;к транспортёру Zn2+&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#990000&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="1S42Lx_ONgAT6E66zQUV-11" value="&lt;b style=&quot;font-size: 15px;&quot;&gt;&lt;font color=&quot;#990000&quot; style=&quot;font-size: 15px;&quot;&gt;antibody to&amp;nbsp;&lt;/font&gt;&lt;/b&gt;&lt;div style=&quot;font-size: 15px;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#990000&quot; style=&quot;font-size: 15px;&quot;&gt;&amp;nbsp;Zn2+ transporter 8&lt;/font&gt;&lt;/b&gt;&lt;div&gt;&lt;b style=&quot;&quot;&gt;&lt;font color=&quot;#990000&quot; style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="310" y="270" width="280" height="48" as="geometry" />
         </mxCell>
         <mxCell id="Jt0NPLcjKqmwcQxRSdz3-1" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.x;fillColor=#FF0000;strokeColor=#b85450;" parent="1" vertex="1">
@@ -95,25 +95,25 @@
         <mxCell id="Jt0NPLcjKqmwcQxRSdz3-2" value="&lt;b&gt;ICA&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="670" y="187" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Jt0NPLcjKqmwcQxRSdz3-3" value="&lt;font color=&quot;#990000&quot;&gt;&lt;br&gt;&lt;span style=&quot;font-family: Cambria, &amp;quot;Cambria Math&amp;quot;, stixgeneral, &amp;quot;Times New Roman&amp;quot;, Times, serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;антитела к Islet-cell&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#990000&quot;&gt;&lt;span style=&quot;font-family: Cambria, &amp;quot;Cambria Math&amp;quot;, stixgeneral, &amp;quot;Times New Roman&amp;quot;, Times, serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;аутоантигену&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#990000&quot;&gt;&lt;span style=&quot;font-family: Cambria, &amp;quot;Cambria Math&amp;quot;, stixgeneral, &amp;quot;Times New Roman&amp;quot;, Times, serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;(ICA)&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="Jt0NPLcjKqmwcQxRSdz3-3" value="&lt;font color=&quot;#990000&quot;&gt;&lt;br&gt;&lt;span style=&quot;font-family: Cambria, &amp;quot;Cambria Math&amp;quot;, stixgeneral, &amp;quot;Times New Roman&amp;quot;, Times, serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;antibody to&amp;nbsp; Islet-cell&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;div style=&quot;text-align: start;&quot;&gt;&lt;font face=&quot;Cambria, Cambria Math, stixgeneral, Times New Roman, Times, serif&quot; color=&quot;#990000&quot;&gt;antigen 69&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;#990000&quot;&gt;&lt;span style=&quot;font-family: Cambria, &amp;quot;Cambria Math&amp;quot;, stixgeneral, &amp;quot;Times New Roman&amp;quot;, Times, serif; font-size: 15px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;(ICA)&lt;/span&gt;&lt;/font&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="596.5" y="133" width="190" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="K6bYKGF_lyyKckc-i3X0-1" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;strokeColor=#CC6600;" vertex="1" parent="1">
+        <mxCell id="K6bYKGF_lyyKckc-i3X0-1" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;strokeColor=#CC6600;" parent="1" vertex="1">
           <mxGeometry x="566.5" y="234" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="K6bYKGF_lyyKckc-i3X0-3" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;strokeColor=#CC6600;" vertex="1" parent="1">
+        <mxCell id="K6bYKGF_lyyKckc-i3X0-3" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;strokeColor=#CC6600;" parent="1" vertex="1">
           <mxGeometry x="600" y="231" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="K6bYKGF_lyyKckc-i3X0-6" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;rotation=7;strokeColor=#CC6600;" vertex="1" parent="1">
+        <mxCell id="K6bYKGF_lyyKckc-i3X0-6" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;rotation=7;strokeColor=#CC6600;" parent="1" vertex="1">
           <mxGeometry x="586.5" y="254" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="K6bYKGF_lyyKckc-i3X0-5" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;strokeColor=#CC6600;" vertex="1" parent="1">
+        <mxCell id="K6bYKGF_lyyKckc-i3X0-5" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;strokeColor=#CC6600;" parent="1" vertex="1">
           <mxGeometry x="576.5" y="244" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="K6bYKGF_lyyKckc-i3X0-12" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;strokeColor=#CC6600;" vertex="1" parent="1">
+        <mxCell id="K6bYKGF_lyyKckc-i3X0-12" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;strokeColor=#CC6600;" parent="1" vertex="1">
           <mxGeometry x="610" y="241" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="K6bYKGF_lyyKckc-i3X0-16" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;strokeColor=#CC6600;" vertex="1" parent="1">
+        <mxCell id="K6bYKGF_lyyKckc-i3X0-16" value="" style="html=1;shape=mxgraph.basic.isocube;isoAngle=15;strokeColor=#CC6600;" parent="1" vertex="1">
           <mxGeometry x="620" y="251" width="10" height="10" as="geometry" />
         </mxCell>
       </root>
