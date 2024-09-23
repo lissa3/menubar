@@ -14,7 +14,7 @@
           <mxGeometry x="230" y="90" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oUY45JinjUfdoMoh1P1p-10" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=#E6E6E6;gradientColor=default;strokeColor=#666666;gradientDirection=radial;" parent="1" vertex="1">
-          <mxGeometry x="310" y="90" width="140" height="40" as="geometry" />
+          <mxGeometry x="310" y="90" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oUY45JinjUfdoMoh1P1p-11" value="" style="shape=delay;whiteSpace=wrap;html=1;fillColor=#E6E6E6;gradientColor=default;gradientDirection=radial;" parent="1" vertex="1">
           <mxGeometry x="640" y="90" width="80" height="40" as="geometry" />
@@ -23,22 +23,22 @@
           <mxGeometry x="560" y="90" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="oUY45JinjUfdoMoh1P1p-15" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=mxgraph.basic.rect;fillColor2=none;strokeWidth=1;size=20;indent=5;fillColor=#C8F2B2;strokeColor=#999999;gradientColor=#97D077;gradientDirection=radial;" parent="1" vertex="1">
-          <mxGeometry x="450" y="90" width="30" height="40" as="geometry" />
+          <mxGeometry x="410" y="90" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="aleqvYu7K4jObS0uqPys-66" value="&lt;b&gt;хромосома 2&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="60" y="100" width="165" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="aleqvYu7K4jObS0uqPys-131" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.213;exitY=0.987;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" edge="1">
+        <mxCell id="aleqvYu7K4jObS0uqPys-131" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.213;exitY=0.987;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.007;entryY=0.148;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1" target="kSk2fH91qi1fYtPJhFhk-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="451.3900000000001" y="130.00000000000003" as="sourcePoint" />
-            <mxPoint x="280" y="240" as="targetPoint" />
+            <mxPoint x="441.3900000000001" y="220.00000000000003" as="sourcePoint" />
+            <mxPoint x="270" y="330" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kSk2fH91qi1fYtPJhFhk-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.286;exitY=0.987;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="oUY45JinjUfdoMoh1P1p-15">
+        <mxCell id="kSk2fH91qi1fYtPJhFhk-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.286;exitY=0.987;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" target="kSk2fH91qi1fYtPJhFhk-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="450" y="130" as="sourcePoint" />
-            <mxPoint x="600" y="240" as="targetPoint" />
+            <mxPoint x="440" y="220" as="sourcePoint" />
+            <mxPoint x="581.42" y="330.52" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kSk2fH91qi1fYtPJhFhk-3" value="Поджелудочная&lt;div&gt;железа&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -48,10 +48,19 @@
           <mxGeometry x="600" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kSk2fH91qi1fYtPJhFhk-5" value="Глюкагон" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="360" width="120" height="60" as="geometry" />
+          <mxGeometry x="140" y="360" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kSk2fH91qi1fYtPJhFhk-6" value="GLP-1&lt;div&gt;GLP-2&lt;/div&gt;&lt;div&gt;Oxyntomodulin&lt;/div&gt;&lt;div&gt;Glicentin&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="360" width="160" height="80" as="geometry" />
+          <mxGeometry x="580" y="360" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="kSk2fH91qi1fYtPJhFhk-8" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="160" as="sourcePoint" />
+            <mxPoint x="440" y="130" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="kSk2fH91qi1fYtPJhFhk-9" value="Тканевая специфичность экспрессии гена проглюкогона" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="160" width="470" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
