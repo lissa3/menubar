@@ -41,10 +41,10 @@
             <mxPoint x="581.42" y="330.52" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kSk2fH91qi1fYtPJhFhk-3" value="Поджелудочная&lt;div&gt;железа&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kSk2fH91qi1fYtPJhFhk-3" value="Поджелудочная&lt;div&gt;железа&lt;/div&gt;&lt;div&gt;alpha-cells&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="kSk2fH91qi1fYtPJhFhk-4" value="&lt;div&gt;Кишечник&lt;/div&gt;&lt;div&gt;Мозг&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="kSk2fH91qi1fYtPJhFhk-4" value="&lt;div&gt;Кишечник&lt;/div&gt;&lt;div&gt;( L-cells )&lt;/div&gt;&lt;div&gt;Мозг&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kSk2fH91qi1fYtPJhFhk-5" value="Глюкагон" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
