@@ -28,30 +28,30 @@
         <mxCell id="aleqvYu7K4jObS0uqPys-66" value="&lt;b&gt;хромосома 2&lt;/b&gt;" style="whiteSpace=wrap;html=1;rounded=1;" parent="1" vertex="1">
           <mxGeometry x="475" y="45" width="165" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="aleqvYu7K4jObS0uqPys-131" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.213;exitY=0.987;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.007;entryY=0.148;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="kSk2fH91qi1fYtPJhFhk-3" edge="1">
+        <mxCell id="aleqvYu7K4jObS0uqPys-131" value="" style="endArrow=classic;html=1;rounded=0;entryX=1.007;entryY=0.148;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" target="kSk2fH91qi1fYtPJhFhk-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="441.3900000000001" y="220.00000000000003" as="sourcePoint" />
+            <mxPoint x="270" y="490" as="sourcePoint" />
             <mxPoint x="270" y="330" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="kSk2fH91qi1fYtPJhFhk-2" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.286;exitY=0.987;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="kSk2fH91qi1fYtPJhFhk-4" edge="1">
+        <mxCell id="kSk2fH91qi1fYtPJhFhk-2" value="" style="endArrow=classic;html=1;rounded=0;" parent="1" target="kSk2fH91qi1fYtPJhFhk-4" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="440" y="220" as="sourcePoint" />
+            <mxPoint x="590" y="490" as="sourcePoint" />
             <mxPoint x="581.42" y="330.52" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="kSk2fH91qi1fYtPJhFhk-3" value="Поджелудочная&lt;div&gt;железа&lt;/div&gt;&lt;div&gt;alpha-cells&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="140" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="110" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kSk2fH91qi1fYtPJhFhk-4" value="&lt;div&gt;Кишечник&lt;/div&gt;&lt;div&gt;( L-cells )&lt;/div&gt;&lt;div&gt;Мозг&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="600" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="570" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="kSk2fH91qi1fYtPJhFhk-5" value="&lt;b&gt;&lt;font style=&quot;font-size: 19px;&quot;&gt;Глюкагон&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="130" y="480" width="160" height="80" as="geometry" />
+          <mxGeometry x="100" y="640" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kSk2fH91qi1fYtPJhFhk-6" value="&lt;b&gt;&lt;font style=&quot;font-size: 17px;&quot;&gt;GLP-1&lt;/font&gt;&lt;/b&gt;&lt;div&gt;GLP-2&lt;/div&gt;&lt;div&gt;Oxyntomodulin&lt;/div&gt;&lt;div&gt;Glicentin&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="580" y="480" width="160" height="80" as="geometry" />
+          <mxGeometry x="590" y="670" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="kSk2fH91qi1fYtPJhFhk-8" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -60,10 +60,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="kSk2fH91qi1fYtPJhFhk-9" value="Тканевая специфичность экспрессии гена проглюкогона" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="260" width="470" height="60" as="geometry" />
+          <mxGeometry x="190" y="320" width="470" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OuanMOOCxLX3VNHbL0DB-1" value="полипептид == проглюкогон&lt;div&gt;содержит:&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;глюкогон, GLP-1,GLP-2&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="OuanMOOCxLX3VNHbL0DB-1" value="проглюкогон&lt;div&gt;содержит:&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;глюкогон, GLP-1,GLP-2&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="220" y="170" width="470" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OuanMOOCxLX3VNHbL0DB-2" value="post-translational proccess&amp;nbsp;&lt;span style=&quot;color: rgb(31, 31, 31); font-family: ElsevierGulliver, Georgia, &amp;quot;Times New Roman&amp;quot;, Times, STIXGeneral, &amp;quot;Cambria Math&amp;quot;, &amp;quot;Lucida Sans Unicode&amp;quot;, &amp;quot;Microsoft Sans Serif&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Arial Unicode MS&amp;quot;, serif; font-size: 16px; text-align: start;&quot;&gt;in a tissue-specific manner&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="260" width="460" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OuanMOOCxLX3VNHbL0DB-3" value="из-за тканевой специфичности - из проглюкагонового пептида - различный дериваты" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="400" width="470" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
