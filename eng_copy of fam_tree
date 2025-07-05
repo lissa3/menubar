@@ -4,25 +4,25 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="62893188c0fa7362-1" value="Иван (1876?)&lt;div&gt;служащий КВЖД&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="62893188c0fa7362-1" value="Ivan (1876?)&lt;div&gt;railway (Ru-China)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="420" y="50" width="180" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="62893188c0fa7362-20" value="Иван&amp;nbsp;&lt;div&gt;(ЖД)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="62893188c0fa7362-20" value="Ivan&amp;nbsp;&lt;div&gt;(railway)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="30" y="170" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="62893188c0fa7362-21" value="Мария(Мск)&lt;div&gt;Балашиха&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="62893188c0fa7362-21" value="Maria(Msk region)&lt;div&gt;Балашиха&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="120" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="62893188c0fa7362-22" value="Николай 1906&lt;div&gt;(художник)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="62893188c0fa7362-22" value="Nikolay 1906&lt;div&gt;(painter)&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="260" y="170" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="62893188c0fa7362-23" value="Екатерина" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="62893188c0fa7362-23" value="Ekaterina" style="whiteSpace=wrap;html=1;rounded=0;shadow=1;labelBackgroundColor=none;strokeWidth=2;fontFamily=Verdana;fontSize=12;align=center;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="1000" y="170" width="80" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tZSM3rS4rVzm5Z3-NTyp-1" value="Оксана" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="tZSM3rS4rVzm5Z3-NTyp-1" value="Oxana" style="whiteSpace=wrap;html=1;rounded=1;shadow=1;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="690" y="50" width="270" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tZSM3rS4rVzm5Z3-NTyp-2" value="Переселенцы из Украины (голод 1775-76) в Покровск (Энгельс)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="tZSM3rS4rVzm5Z3-NTyp-2" value="Immigrants from Ukraine (famine 1775-76) в Покровск (Энгельс)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="60" y="50" width="280" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tZSM3rS4rVzm5Z3-NTyp-3" value="" style="endArrow=none;html=1;rounded=0;exitX=0.994;exitY=0.648;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="62893188c0fa7362-1" edge="1">
@@ -49,7 +49,7 @@
             <mxPoint x="169.5" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tZSM3rS4rVzm5Z3-NTyp-7" value="Валенитина" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="tZSM3rS4rVzm5Z3-NTyp-7" value="Valentina" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="120" y="290" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tZSM3rS4rVzm5Z3-NTyp-8" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
@@ -64,13 +64,13 @@
             <mxPoint x="130" y="365" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tZSM3rS4rVzm5Z3-NTyp-10" value="Юрий" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
+        <mxCell id="tZSM3rS4rVzm5Z3-NTyp-10" value="Uri" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
           <mxGeometry x="5" y="365" width="80" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="tZSM3rS4rVzm5Z3-NTyp-11" value="Валентин" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
+        <mxCell id="tZSM3rS4rVzm5Z3-NTyp-11" value="Valentina" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
           <mxGeometry x="120" y="365" width="70" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="tZSM3rS4rVzm5Z3-NTyp-12" value="Был в ГУЛАГ&lt;div&gt;(погиб в 2мв).&lt;div&gt;Жена Нина с 2 детьми сослана в Сибирь&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
+        <mxCell id="tZSM3rS4rVzm5Z3-NTyp-12" value="GULAG prisoner&lt;div&gt;(died in 2 ww).&lt;div&gt;Spouse Nina with 2kids sent to Siberia&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="250" y="240" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="tZSM3rS4rVzm5Z3-NTyp-13" value="" style="endArrow=none;html=1;rounded=0;exitX=0.462;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="tZSM3rS4rVzm5Z3-NTyp-12" edge="1">
@@ -79,7 +79,7 @@
             <mxPoint x="310" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tZSM3rS4rVzm5Z3-NTyp-14" value="Дети(?) этих детей&lt;div&gt;Евгения и Вадим&lt;/div&gt;&lt;div&gt;проживают в Тарту(Эстония)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
+        <mxCell id="tZSM3rS4rVzm5Z3-NTyp-14" value="Children of these kids(?): Eugena and Vadim live in Tartu&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;(Estonia)&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
           <mxGeometry x="250" y="365" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="tZSM3rS4rVzm5Z3-NTyp-16" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
@@ -88,10 +88,10 @@
             <mxPoint x="320" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tZSM3rS4rVzm5Z3-NTyp-17" value="Евдокия (1907)&lt;div&gt;по мужу Ковтуненко&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="tZSM3rS4rVzm5Z3-NTyp-17" value="Evdokia (1907)&lt;div&gt;married to Kovtunenko)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="420" y="170" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="tZSM3rS4rVzm5Z3-NTyp-18" value="Нина(Казахстан)" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="tZSM3rS4rVzm5Z3-NTyp-18" value="Nina(Kazachstan)" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="420" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tZSM3rS4rVzm5Z3-NTyp-22" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
@@ -106,7 +106,7 @@
             <mxPoint x="560" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tZSM3rS4rVzm5Z3-NTyp-25" value="Вячеслав(1922)&lt;div&gt;физик\&lt;/div&gt;&lt;div&gt;ракетостроитель&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="tZSM3rS4rVzm5Z3-NTyp-25" value="Vyacheslav(1922)&lt;div&gt;physics\&lt;/div&gt;&lt;div&gt;rocktescience&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="560" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tZSM3rS4rVzm5Z3-NTyp-28" value="" style="endArrow=none;html=1;rounded=0;exitX=0.25;exitY=0;exitDx=0;exitDy=0;" parent="1" source="tZSM3rS4rVzm5Z3-NTyp-25" edge="1">
@@ -127,7 +127,7 @@
             <mxPoint x="570" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tZSM3rS4rVzm5Z3-NTyp-32" value="Виктор 1908-1937&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;ЖД, репрессирован&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="tZSM3rS4rVzm5Z3-NTyp-32" value="Victor 1908-1937&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;railway, killed in GULAG&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="860" y="170" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tZSM3rS4rVzm5Z3-NTyp-33" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="tZSM3rS4rVzm5Z3-NTyp-32" edge="1">
@@ -136,7 +136,7 @@
             <mxPoint x="920" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tZSM3rS4rVzm5Z3-NTyp-34" value="Василий 1902&lt;div&gt;(ЖД)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="tZSM3rS4rVzm5Z3-NTyp-34" value="Vasyli1902&lt;div&gt;(railway)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;gradientColor=#97d077;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="610" y="172.5" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tZSM3rS4rVzm5Z3-NTyp-37" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="tZSM3rS4rVzm5Z3-NTyp-34" target="tZSM3rS4rVzm5Z3-NTyp-38" edge="1">
@@ -145,7 +145,7 @@
             <mxPoint x="690" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tZSM3rS4rVzm5Z3-NTyp-38" value="Пелагея" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" parent="1" vertex="1">
+        <mxCell id="tZSM3rS4rVzm5Z3-NTyp-38" value="Pelagea" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e6d0de;gradientColor=#d5739d;strokeColor=#996185;" parent="1" vertex="1">
           <mxGeometry x="750" y="175" width="90" height="55" as="geometry" />
         </mxCell>
         <mxCell id="tZSM3rS4rVzm5Z3-NTyp-39" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" edge="1">
@@ -160,10 +160,10 @@
             <mxPoint x="1010" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tZSM3rS4rVzm5Z3-NTyp-43" value="Олег&lt;div&gt;мой отец&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="tZSM3rS4rVzm5Z3-NTyp-43" value="Oleg&lt;div&gt;(my dad)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="540" y="500" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="tZSM3rS4rVzm5Z3-NTyp-44" value="ещё 5 детей&lt;div&gt;мои тёти и дяди&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+        <mxCell id="tZSM3rS4rVzm5Z3-NTyp-44" value="(5 fater&#39;s siblings)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="710" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tZSM3rS4rVzm5Z3-NTyp-45" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" parent="1" source="tZSM3rS4rVzm5Z3-NTyp-43" edge="1">
@@ -202,7 +202,7 @@
             <mxPoint x="410" y="348" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="tZSM3rS4rVzm5Z3-NTyp-60" value="двое близнецов" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
+        <mxCell id="tZSM3rS4rVzm5Z3-NTyp-60" value="twins" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#bac8d3;strokeColor=#23445d;" parent="1" vertex="1">
           <mxGeometry x="390" y="435" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
