@@ -51,14 +51,44 @@
         <mxCell id="DP4Usy34yFwg9hJkTRNx-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;удар по чайнику&amp;nbsp;&lt;/font&gt;" vertex="1">
           <mxGeometry height="30" width="125" x="560" y="120" as="geometry" />
         </mxCell>
-        <mxCell id="d9iTcUFAorykhOTMitPk-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="d9iTcUFAorykhOTMitPk-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Reflex" vertex="1">
           <mxGeometry height="60" width="120" x="50" y="330" as="geometry" />
         </mxCell>
-        <mxCell id="d9iTcUFAorykhOTMitPk-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
-          <mxGeometry height="60" width="120" x="305" y="320" as="geometry" />
+        <mxCell id="d9iTcUFAorykhOTMitPk-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Ortho" vertex="1">
+          <mxGeometry height="60" width="120" x="305" y="330" as="geometry" />
         </mxCell>
-        <mxCell id="d9iTcUFAorykhOTMitPk-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+        <mxCell id="d9iTcUFAorykhOTMitPk-7" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Cardiac" vertex="1">
           <mxGeometry height="60" width="120" x="565" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="d9iTcUFAorykhOTMitPk-8" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="VV:&lt;div&gt;sterss, heat&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="50" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="d9iTcUFAorykhOTMitPk-9" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="situational:&lt;div&gt;sneeze&lt;/div&gt;&lt;div&gt;defecation/urination&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="50" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="d9iTcUFAorykhOTMitPk-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Autonomic:&lt;div&gt;neurogen&lt;/div&gt;&lt;div&gt;systemic&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="305" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="d9iTcUFAorykhOTMitPk-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Meds:&lt;div&gt;alfa-blokker&lt;/div&gt;&lt;div&gt;BP meds&lt;/div&gt;&lt;div&gt;TCA&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="305" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="d9iTcUFAorykhOTMitPk-12" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Arrhythmia&lt;div&gt;AV-block&lt;/div&gt;&lt;div&gt;SVT&lt;/div&gt;&lt;div&gt;VT&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="562.5" y="410" as="geometry" />
+        </mxCell>
+        <mxCell id="d9iTcUFAorykhOTMitPk-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Structural&lt;div&gt;Aortic stenosis&lt;/div&gt;&lt;div&gt;Tamponade&lt;/div&gt;&lt;div&gt;PE&lt;/div&gt;&lt;div&gt;HOCM&lt;/div&gt;" vertex="1">
+          <mxGeometry height="80" width="120" x="560" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="d9iTcUFAorykhOTMitPk-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Carotid sensitivity" vertex="1">
+          <mxGeometry height="60" width="120" x="50" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="d9iTcUFAorykhOTMitPk-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Other:&lt;div&gt;low ОЦК&lt;/div&gt;&lt;div&gt;post-prandial&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="120" x="305" y="600" as="geometry" />
+        </mxCell>
+        <mxCell id="d9iTcUFAorykhOTMitPk-16" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="High Risk" vertex="1">
+          <mxGeometry height="60" width="600" x="120" y="720" as="geometry" />
+        </mxCell>
+        <mxCell id="d9iTcUFAorykhOTMitPk-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="При нагрузке&lt;div&gt;Без продромы&lt;/div&gt;&lt;div&gt;в положении лежа и спокойствии&lt;/div&gt;&lt;div&gt;оклоненцы на ЭКГ&lt;/div&gt;&lt;div&gt;Здоровяки&lt;/div&gt;" vertex="1">
+          <mxGeometry height="200" width="530" x="150" y="840" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
