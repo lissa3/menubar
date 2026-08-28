@@ -1,0 +1,31 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="4DBX9xK4uYvAKEZFdevb">
+    <mxGraphModel dx="1053" dy="591" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DP4Usy34yFwg9hJkTRNx-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=#FFFFFF;" value="&lt;font style=&quot;font-size: 30px;&quot;&gt;Syncope&lt;/font&gt;" vertex="1">
+          <mxGeometry height="200" width="240" x="80" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DP4Usy34yFwg9hJkTRNx-4" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="200" width="280" x="480" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="DP4Usy34yFwg9hJkTRNx-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=22;fontStyle=0;labelBackgroundColor=#FFFFFF;" value="Syncope Mimics" vertex="1">
+          <mxGeometry height="30" width="200" x="500" y="50" as="geometry" />
+        </mxCell>
+        <mxCell id="DP4Usy34yFwg9hJkTRNx-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=15;" value="seizure" vertex="1">
+          <mxGeometry height="30" width="150" x="515" y="90" as="geometry" />
+        </mxCell>
+        <mxCell id="DP4Usy34yFwg9hJkTRNx-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;stroke&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="560" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="DP4Usy34yFwg9hJkTRNx-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=14;" value="HYPO" vertex="1">
+          <mxGeometry height="30" width="60" x="560" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="DP4Usy34yFwg9hJkTRNx-9" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;удар по чайнику&amp;nbsp;&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="125" x="555" y="190" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
